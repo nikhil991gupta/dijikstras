@@ -114,7 +114,7 @@ export default class PathfindingVisualizer extends Component {
             );
           })}
         </div>
-        
+            
       </> 
     );
   }
