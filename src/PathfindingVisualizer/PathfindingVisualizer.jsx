@@ -127,7 +127,7 @@ const getInitialGrid = () => {
     for (let col = 0; col < 50; col++) {
       currentRow.push(createNode(col, row));
     }
-    grid.push(currentRow);
+    grid.push(currentRow); 
   }
   return grid;
 };
