@@ -109,7 +109,7 @@ export default class PathfindingVisualizer extends Component {
                       row={row}></Node>
                       
                   );
-                })}
+                })} 
               </div>
             );
           })}
