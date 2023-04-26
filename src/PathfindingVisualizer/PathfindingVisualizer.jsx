@@ -118,7 +118,7 @@ export default class PathfindingVisualizer extends Component {
       </> 
     );
   }
-}
+}  
 
 const getInitialGrid = () => {
   const grid = [];
